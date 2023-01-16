@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pawelsmolarski95
 - 👀 I’m interested in web development and learning about new technologies.
-- 🌱 I’m currently learning JS and React
+- 🌱 I’m working with HTML, CSS, SASS, JS, React, Router, Redux, Node ,Express
+- :monocle_face: I’m learning: TypeScript.
 
 
 <!---
