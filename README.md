@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pawelsmolarski95
 - 👀 I’m interested in web development and learning about new technologies.
-- 🌱 I’m working with HTML, CSS, SASS, JS, React, Router, Redux, Node ,Express, NextJS, NestJS, Prisma, MySQL
+- 🌱 I’m working with JS, React, Router, Redux, Node ,Express, NextJS, NestJS, Prisma, MySQL
 - :monocle_face: I’m learning: TypeScript.
 
 
